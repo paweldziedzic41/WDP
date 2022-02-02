@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642609845 source:c:\users\pawe³\desktop\studia\zad3\main.cpp
+	<iostream>
+	<time.h>
+

@@ -1,0 +1,5 @@
+pawEl
+dZiEdzic
+
+Me.ID_Cwiczenie.Value = Me.Kombi7.Column(0)
+Me.ID_Czlonek.Value = Me.Kombi9.Column(0)
